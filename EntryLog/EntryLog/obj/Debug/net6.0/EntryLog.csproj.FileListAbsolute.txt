@@ -71,3 +71,4 @@ C:\Users\Lenovo\source\repos\EntryLog\EntryLog\bin\Debug\net6.0\ClientApp\EntryL
 C:\Users\Lenovo\source\repos\EntryLog\EntryLog\bin\Debug\net6.0\ClientApp\EntryLogUI\tsconfig.app.json
 C:\Users\Lenovo\source\repos\EntryLog\EntryLog\bin\Debug\net6.0\ClientApp\EntryLogUI\tsconfig.json
 C:\Users\Lenovo\source\repos\EntryLog\EntryLog\bin\Debug\net6.0\ClientApp\EntryLogUI\tsconfig.spec.json
+C:\Users\Lenovo\source\repos\EntryLog\EntryLog\bin\Debug\net6.0\ClientApp\EntryLogUI\package-lock.json
