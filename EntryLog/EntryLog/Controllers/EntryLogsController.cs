@@ -18,7 +18,7 @@ namespace EntryLog.Controllers
 
         // GET api/EntryLogs
         [HttpGet]
-        public ActionResult<IQueryable<PeopleEntryLogs>> Get()
+        public ActionResult<List<PeopleEntryLogs>> Get()
         {
             var people = _dbContext.PeopleEntryLogs;
             return Ok(people);
